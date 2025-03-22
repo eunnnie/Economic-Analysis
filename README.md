@@ -1,11 +1,13 @@
+# 프로젝트: 사망률에 영향을 미치는 요인 분석
 
-## 📌 Project Summary | 프로젝트 요약
+## 🧪 개요
+본 프로젝트는 COVID-19 팬데믹 시기에 국가별 사망률에 영향을 미치는 주요 요인들을 통계적으로 분석하기 위해 수행되었습니다.
 
-- **📅 Date**: 2025년 기준 (정확한 날짜는 명시되어 있지 않음)  
+### 📌 Project Summary | 프로젝트 요약
+
 - **🛠 Tool**:  
-  - Python (pandas, seaborn, statsmodels 사용 추정)  
-  - Excel (데이터 정리, 시각화 일부 가능성 있음)  
-  - Jupyter Notebook 또는 유사 환경  
+  - Python (pandas, seaborn, statsmodels)    
+  - Jupyter Notebook
 - **🧪 Design**:  
   - Cross-sectional analysis  
   - 국가 단위로 측정된 다양한 사회·보건 지표 기반  
@@ -13,13 +15,6 @@
 - **🎯 Goal**:  
   - COVID-19 시기 국가별 **사망률(Mortality Rate)** 에 영향을 주는 주요 요인을 식별  
   - 특히 **고령 인구, 대기 오염, 교육 수준, 확진자 수, 건강 지출** 등의 변수 영향 분석
-
-
-
-# 프로젝트: 사망률에 영향을 미치는 요인 분석
-
-## 🧪 개요
-본 프로젝트는 COVID-19 팬데믹 시기에 국가별 사망률에 영향을 미치는 주요 요인들을 통계적으로 분석하기 위해 수행되었습니다.
 
 ## 📊 사용한 변수
 - **종속 변수**: 사망률 (Mortality Rate)
